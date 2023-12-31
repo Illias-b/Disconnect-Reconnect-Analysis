@@ -20,5 +20,3 @@ The dashboard effectively captures DCRC events, providing valuable insights for 
 - **SQL Code Screenshot**: 
    - ![SQL Logic Screenshot](link-to-sql-code-screenshot.jpg)
    - *Figure 3: Snapshot of SQL Code for DCRC Logic*
-
-Replace `link-to-dashboard-snapshot.jpg`, `link-to-tableau-dashboard.jpg`, and `link-to-sql-code-screenshot.jpg` with the actual URLs of your images. This format provides a comprehensive and visually engaging description of your project on GitHub.
