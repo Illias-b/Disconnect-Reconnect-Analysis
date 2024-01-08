@@ -1,6 +1,7 @@
-## Disconnect-Reconnect Dashboard
+![image](https://github.com/Illias-b/Disconnect-Reconnect-Analysis/assets/33836566/9dd42634-16bf-4a38-8ca0-318595e8136d)## Disconnect-Reconnect Dashboard
 
-![Dashboard Visual](link-to-dashboard-snapshot.jpg)
+![image](https://github.com/Illias-b/Disconnect-Reconnect-Analysis/assets/33836566/9a8c7ce9-c2d7-4945-8334-d6164e46e6ba)
+
 *Figure 1: Snapshot of the Disconnect-Reconnect Dashboard*
 
 ### GOAL
