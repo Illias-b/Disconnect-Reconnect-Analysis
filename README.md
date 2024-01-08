@@ -16,8 +16,3 @@ The dashboard effectively captures DCRC events, providing valuable insights for 
    - Calculating the days between disconnections and subsequent acquisitions.
 - **Tableau Dashboard Visualization**: 
    - An interactive Tableau dashboard was created to visualize the frequency and details of DCRC events, providing a clear view of these occurrences over time.
-   - ![Tableau Dashboard Screenshot](link-to-tableau-dashboard.jpg)
-   - *Figure 2: Snapshot of the Tableau Dashboard*
-- **SQL Code Screenshot**: 
-   - ![SQL Logic Screenshot](link-to-sql-code-screenshot.jpg)
-   - *Figure 3: Snapshot of SQL Code for DCRC Logic*
